@@ -13,4 +13,4 @@ function fibonacciGenerator (n) {
     return sequence;
 }
 
-fibonacciGenerator(4);
+console.log(fibonacciGenerator(4));
